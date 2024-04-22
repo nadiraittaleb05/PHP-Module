@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    height: 100px;
+    text-align: center;
+    padding-top: 9%;
+    background-color: aquamarine;
+    line-height: 3rem;
+    font-size: 35px;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    height: 100px;
+    text-align: center;
+    padding-top: 9%;
+    background-color: greenyellow;
+    line-height: 3rem;
+    font-size: 35px;
+    width: 100%;
+}
